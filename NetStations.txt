@@ -1,0 +1,57 @@
+; Original file name NetStations.txt must not be altered!
+
+; Some Internet Radio Stations
+; This list may be extended if you have other preferences
+;
+; I tested only two or three stations!
+;
+
+ http://217.160.104.63:8022/             | Radio Mazaj [The Best of Arabic Radio]
+ http://222.122.131.27:22000/            | Republic of Korea Top Radio
+ http://87.248.240.242:8000              | Radio Classic Russia
+ http://209.9.226.67: 8002               | NOTHING BUT THE HITS - 50'S 60'S 70'S 80'S & 90'S
+ http://216.169.32.54:80/                | Good Company
+ http://66.232.110.34:8000               | SmoothLounge.Com: For The Chill Of It
+ http://148.245.94.212:8700/             | Formula Romantica
+ http://213.132.182.42:80/               | Radio Stad Den Haag - ITALO DISCO EURO DANCE HI NRG 80s
+ http://208.100.15.165:9106/             | EYE97 - Commercial Free Non Stop Hits of the 70's, 80's, 90's and Today
+ http://64.71.145.106:8004/              | Classical WGBH 89.7
+ http://85.214.20.177:80/                | Radio 700 - Schlager und Oldies - die richtige Mischung
+ http://205.188.215.231:8010/            | Best Salsa Collection now on S K Y . F M
+ http://218.189.210.17:4800/             | Classical: renaissance and baroque
+ http://66.225.205.8:8000/               | Folk Alley 
+ http://82.209.245.146:9001/             | Radio Chanson
+ http://s19.purestream.net:8020/         | Blues
+ http://205.188.215.228:8006/            | Ambient
+ http://216.126.84.50:8000/              | Streaming Classic
+ http://64.236.34.4:80/stream/1040       | The 80s Channel (80s Grooves)
+ http://222.122.131.95:8000/             | HAPPYDAY * Contemporary Instrumental
+ http://67.43.161.248:6001/              | The EDGE ROCKS!! - 100% ROCK
+ http://207.200.96.231:8012/             | Space Station Soma Ambient and mid-tempo electronica
+ http://160.79.128.40:7674/              | SKY.fm - World Music
+ http://ns0005.hmorneau.com:8700/        | Radio Skipper presents Oldies & Classic the best of 80's 90's
+ http://64.236.34.196:80/stream/1007/    | DIGITALLY-IMPORTED - House - silky sexy house music!
+ http://88.191.11.86:8010/               | LOUNGE-RADIO [sounds for couch-potatoes]
+ http://64.236.34.196:80/stream/1003     | DIGITALLY-IMPORTED - European Trance
+ http://64.236.34.196:5190/stream/1014   | Sky.FM - Top Hits Music
+ http://207.200.96.228:80/stream/1028    | Sky.FM - Classical & Flamenco Guitar
+ http://64.236.34.196:80/stream/1013     | Sky.FM - Oldies of the 80s
+ http://64.236.34.196:80/stream/1007     | DIGITALLY-IMPORTED - House
+ http://64.236.34.4:80/stream/1035       | DIGITALLY-IMPORTED - Chillout 
+ http://stream2.mpegradio.com:8090 /     | MPEG Radio - Brip Pop And Alternative
+ http://64.236.34.4:80/stream/1073       | Soma FM - Indie Pop
+ http://64.236.34.4:80/stream/1021       | Secret Agent II
+
+; Prefix your favorite station with an asterisk
+*http://64.236.34.4:80/stream/1006       | Sky.FM - Mostly Classical
+
+ http://208.139.194.168:8002             | Classical Music Archives 
+ http://38.118.158.78:8016/              | Classical Selections
+ http://220.95.210.103:8000/              | We Met In Classics, Pure Classical Music
+ http://207.200.96.228:80/stream/1029    | Sky.FM - Roots Regae
+ http://64.236.34.4:80/stream/1019       | Sky.FM - Country
+ http://64.236.34.4:80/stream/1014       | Sky.FM - Top Hits Music
+ http://s1.global-streaming.de:12100/    | Berlin Radio - Charts Finest
+ http://live4u-radio.de:8000/            | Live 4 You
+ 
+
