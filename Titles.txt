@@ -1,0 +1,15 @@
+; Original file name Titles.txt must not be altered!
+
+; Some preferred Titles / Authors
+; This list may be extended if you have other preferences
+
+; Entries will be used as a pattern using the Like-operator (see http://msdn2.microsoft.com/en-us/library/swf8kaxw.aspx)
+; and recording will be turned on when the transmitted title matches one of the patterns and off if it does not.
+; The entries are not case-sensitive. Thanks to Michael Döring for this idea.
+
+; If this file does not exist or is empty then recording will be turned on anyway.
+
+*mozart*
+*vivaldi*
+*loreena*
+*handel*
